@@ -11,13 +11,30 @@ NAVIGATION BAR
 }
 
 h1 {
+    font-size: 3.3em;
+    font-weight: bold;
+    color: #008CBA;
+    margin:20px 40%;
+    text-align: center;
+}
+h2 {
     font-size: 2em;
+    font-weight: bold;
+    color: #FC9300;
+    margin:20px 40%;
+    text-align: center;
+
+}
+#title {
+    width: 20%;
+}
+#problematica {
+    padding: 15px;
+    text-align: justify;
+    border: 3px solid #FC9300;
 }
 
-<<<<<<< HEAD
-}
 .megadiv {
     min-height: 100vh;
 }
-=======
->>>>>>> d6e47b565b3682e1c1f96bfd079e6c8ef93483fb
+
