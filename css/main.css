@@ -24,23 +24,29 @@ h1 {
     text-align: justify;
     font-size: 2em;
     margin: 0 10%;
+    color:#878d91;
     
 }
 
 
 #titulo {
     text-align: center;
-    font-size: 4em;
+    font-size: 6em;
     color: #8bbfd3;
 }
 
-.text{
-    font-size: 2em;
-    color:#878d91;
-}
+
 
 .subText{
     text-align: center;
     font-size: 2.5em;
     margin-top: 2.5%;
+}
+
+.sectionText{
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 10%;
+    color:#7d8c9d;
+    font-weight: 500;
 }
