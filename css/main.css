@@ -2,10 +2,22 @@
 NAVIGATION BAR
 **********************************/
 
-h1{
+#pageTitle{
+    text-align: center;
+    font-weight: bolder;
+}
+.top-bar {
+    
+}
 
+h1 {
+    font-size: 2em;
+}
 
+<<<<<<< HEAD
 }
 .megadiv {
     min-height: 100vh;
 }
+=======
+>>>>>>> d6e47b565b3682e1c1f96bfd079e6c8ef93483fb
