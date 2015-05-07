@@ -2,7 +2,15 @@
 NAVIGATION BAR
 **********************************/
 
-h1{
-
-
+#pageTitle{
+    text-align: center;
+    font-weight: bolder;
 }
+.top-bar {
+    
+}
+
+h1 {
+    font-size: 6px;
+}
+
