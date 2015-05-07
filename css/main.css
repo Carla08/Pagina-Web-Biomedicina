@@ -14,10 +14,33 @@ h1 {
     font-size: 2em;
 }
 
-<<<<<<< HEAD
+
 }
 .megadiv {
     min-height: 100vh;
 }
-=======
->>>>>>> d6e47b565b3682e1c1f96bfd079e6c8ef93483fb
+
+.text{
+    text-align: justify;
+    font-size: 2em;
+    margin: 0 10%;
+    
+}
+
+
+#titulo {
+    text-align: center;
+    font-size: 4em;
+    color: #8bbfd3;
+}
+
+.text{
+    font-size: 2em;
+    color:#878d91;
+}
+
+.subText{
+    text-align: center;
+    font-size: 2.5em;
+    margin-top: 2.5%;
+}
